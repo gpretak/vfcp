@@ -6,7 +6,7 @@ https://dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-com
 
 Requirements:
 panads==0.20.2
-selenium==3.11.0
+selenium==3.11.0 
 
 Instructions:
 - Use the file in the template folder to create your document
